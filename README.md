@@ -5,3 +5,4 @@ I installed oh-my-zsh for my terminal.
 
 ### set up oh-my-zsh
 [Jianshu](https://www.jianshu.com/p/d194d29e488c)
+https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
