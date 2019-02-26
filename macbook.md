@@ -9,4 +9,4 @@ I installed oh-my-zsh for my terminal.
 
 1.  issue
 
-: I got a problem when using `pip install` after working in oh-my-zsh.
+:I got a problem when using `pip install` after working in oh-my-zsh.
