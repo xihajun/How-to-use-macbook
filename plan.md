@@ -1,7 +1,13 @@
 # Plan
 ## WEEK 5 
 - [x] 1. learning markdown
+```
 * [Markdown cheating sheet][1]
+* [Check here](./markdown/README.MD)
+* _finished 2.26 :)_
+```
+Result<br>
+* [Markdown cheating sheet] [1]
 * [Check here](./markdown/README.MD)
 * _finished 2.26 :)_
 
