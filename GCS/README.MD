@@ -12,3 +12,6 @@ https://gitter.im/aimacode/Lobby
 
 ### Sagemath
 [Graph theory](https://wiki.sagemath.org/GSoC/2019)
+
+### Red Hen Lab
+[Red Hen Lab](https://sites.google.com/site/distributedlittleredhen/summer-of-code/google-summer-of-code-2019-ideas-page)
