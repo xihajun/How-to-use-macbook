@@ -7,6 +7,7 @@
 - [ ] 3. Prepare presentation
 - [ ] 4. Android different versions
 - [ ] 5. Selling myself
+- [x] 6. Play basketball (3 times)
 
 ## WEEK break 2
 - [ ] 1. Docker
