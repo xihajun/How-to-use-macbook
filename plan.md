@@ -1,4 +1,22 @@
 # Plan
+
+## WEEK break 1 
+
+- [ ] 1. CV motification
+- [ ] 2. Parallel preparation
+- [ ] 3. Prepare presentation
+- [ ] 4. Android different versions
+- [ ] 5. Selling myself
+
+## WEEK break 2
+- [ ] 1. Docker
+- [ ] 2. Discrete math(part 1)
+- [ ] 3. differentiable ilp 
+- [ ] 4. source code
+
+## WEEK break 3
+
+----------------------------------------
 ## WEEK 5 
 - [x] 1. learning markdown
 ```
@@ -22,19 +40,3 @@ Result<br>
 - [ ] 4. learning machine learning [2]
 - [x] 5. Google Coding summer
 -------------------------------------------
-
-## WEEK break 1 
-
-- [ ] 1. CV motification
-- [ ] 2. Parallel preparation
-- [ ] 3. Prepare presentation
-- [ ] 4. Android different versions
-- [ ] 5. Selling myself
-
-## WEEK break 2
-- [ ] 1. Docker
-- [ ] 2. Discrete math(part 1)
-- [ ] 3. differentiable ilp 
-- [ ] 4. source code
-
-## WEEK break 3
