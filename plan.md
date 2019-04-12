@@ -7,7 +7,7 @@
 - [ ] 3. Prepare presentation
 - [ ] 4. Android different versions
 - [ ] 5. learn how to sell myself
-- [ ] 7. Sleep 9 hours
+- [ ] 7. Sleep 9 hours per night
 - [x] 6. Play basketball (3 times)
 
 ## WEEK break 2
