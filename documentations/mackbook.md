@@ -14,7 +14,10 @@ I installed oh-my-zsh for my terminal.
 2.  markdown
      I wanna add a footnote[^1]
      
+### Really useful extension
+## Tablister
 
-
+https://safari-extensions.apple.com/details/?id=com.paulgriffinpetty.tablister-54DM2A49PR
+## OneTab (chrome)
 
 [^1]: note1 is here.
